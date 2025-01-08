@@ -1,10 +1,10 @@
 <h1>Hey! Welcome to my GitHub!</h1>
 
- I’m Kitryc Virak, a junior in high school looking to improve my coding skills. I am a huge fan of anything IT-related,
+ I’m Kitryc Virak, a junior in high school looking to improve my coding skills. I love anything IT-related,
  but I'm most interested in **programming** and **cybersecurity**.
 
 - 😼Huge fan of open-source projects
-- 🥈Awarded silver for SkillsUSA internetworking
+- 🥇Awarded gold for cybersecurity in schoolwide competition
 - 🏫Hoping to attend UMass Amherst once I graduate
 
 ### My skills: <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)
