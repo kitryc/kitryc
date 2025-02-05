@@ -1,7 +1,7 @@
 <h1>Hey! Welcome to my GitHub!</h1>
 
  I’m Kitryc Virak, a junior in high school looking to improve my coding skills. I love anything IT-related,
- but I'm most interested in **programming** and **cybersecurity**.
+ but I'm most interested in **programming** and **cybersecurity**. 
 
 - 😼Huge fan of open-source projects
 - 🥇Awarded gold for cybersecurity in schoolwide competition
